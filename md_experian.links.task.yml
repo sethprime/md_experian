@@ -1,0 +1,5 @@
+md_experian.settings: #give it the same name as the route to make it clear
+  title: Experian Settings
+  route_name: md_experian.settings #route defined in .routing.yml
+  base_route: md_configuration.settings #same as the route name
+  weight: 0
